@@ -55,13 +55,13 @@ Welcome to my chaotic lab of code + pixels. I build **games**, break reality wit
 
 ## 📊 Stats Mode (a.k.a. flex zone 💪)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=1clunny&show_icons=true&theme=tokyonight&hide_title=true)  
+![Stats](https://github-readme-stats.vercel.app/api?username=oclunny&show_icons=true&theme=tokyonight&hide_title=true)  
 
 ---
 
 ## 🌐 Connect With Me 💌
 
-- 🖥️ **Portfolio**: [1clunny.github.io](https://1clunny.github.io)  
+- 🖥️ **Portfolio**: [1clunny.github.io](https://oclunny.github.io)  
 - 📧 **Email**: [miguellomcostta@icloud.com](mailto:miguellomcostta@icloud.com)  
 - 💼 **LinkedIn**: [Miguel Costa](https://www.linkedin.com/in/miguel-costa-6401b5341/)  
 
