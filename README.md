@@ -13,7 +13,7 @@ Welcome to my chaotic lab of code + pixels. I build **games**, break reality wit
 
 - 🏰 **[Heartcastle](https://heartcastle.netlify.app/)** – spooky RPG (RPG Maker MZ) 👻  
 - 🌾 **Farm Simulator (Roblox)** – chill farming but with chaos 🌽  
-- 📱 **First Mobile App (WIP)** – it runs… sometimes 😅  
+- 📱 **First electron App [SENTINEL](sentinel-inc.xyz)** – it runs… sometimes 😅  
 
 ---
 
