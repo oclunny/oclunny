@@ -5,7 +5,6 @@
 
 *Welcome to my chaotic lab of code + pixels. I build games, break reality with scripts, and pretend CI/CD makes complete sense.*
 
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=clunnyc&style=for-the-badge&color=ff69b4)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1000?style=for-the-badge&logo=firefox&logoColor=white&color=000000)](https://oclunny.github.io)
@@ -18,7 +17,6 @@
 
 </div>
 
----
 
 <div align="center">
   
@@ -32,12 +30,10 @@
 
 </div>
 
----
-
-## 🧰 Magic Toolbox
 
 <div align="center">
-
+  
+## 🧰 Magic Toolbox
 ### ⚔️ Languages & Web
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -59,7 +55,6 @@
 
 </div>
 
----
 
 <div align="center">
 
