@@ -20,15 +20,13 @@
   <i>"Welcome to my chaotic lab of code + pixels. Building immersive games, engineering web apps, and shaping digital realities."</i>
 </p>
 
-</div>
-
 ---
 
-## 🏰 Current Quests
+<h2>🏰 Current Quests</h2>
 
 <br/>
 
-<table>
+<table align="center">
   <tr>
     <td width="33%" align="center">
       <h3>👻 Heartcastle</h3>
@@ -55,11 +53,9 @@
 
 ---
 
-## 🧰 Tech Arsenal
+<h2>🧰 Tech Arsenal</h2>
 
-<div align="center">
-
-### ⚔️ Core & Languages
+<h3>⚔️ Core & Languages</h3>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
@@ -69,14 +65,14 @@
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 </p>
 
-### 🕹️ Game Engines & Creation
+<h3>🕹️ Game Engines & Creation</h3>
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
   <img src="https://img.shields.io/badge/Roblox_Studio-000000?style=for-the-badge&logo=roblox&logoColor=white" />
   <img src="https://img.shields.io/badge/RPG_Maker-E6007E?style=for-the-badge&logoColor=white" />
 </p>
 
-### 🛠️ Tooling & Infrastructure
+<h3>🛠️ Tooling & Infrastructure</h3>
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
@@ -84,24 +80,18 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" />
 </p>
 
-</div>
-
 <br/>
 
 ---
 
-## 📊 Performance & Stats
+<h2>📊 Performance & Stats</h2>
 
-<div align="center">
-
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oclunny&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oclunny&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oclunny&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oclunny&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <br/>
-
-<div align="center">
 
 <!-- FOOTER BANNER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,0,24,30&height=120&section=footer" width="100%" />
