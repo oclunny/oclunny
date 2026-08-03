@@ -312,19 +312,13 @@ Garuda
 EndeavourOS
 </td>
 
+</tr>
+
+<tr>
+    
 <td align="center">
 <img src="https://cdn.simpleicons.org/cachyos" width="45"/><br>
 CachyOS
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/bazzite" width="45"/><br>
-Bazzite
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/nobara" width="45"/><br>
-Nobara
 </td>
 
 <td align="center">
