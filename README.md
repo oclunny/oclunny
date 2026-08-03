@@ -58,6 +58,6 @@
 
 <div align="center">
 
-> 💡 *“CTRL + S your dreams before life crashes.”*
+💡 *“CTRL + S your dreams before life crashes.”*
 
 </div>
