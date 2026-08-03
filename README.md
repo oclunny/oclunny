@@ -222,6 +222,101 @@ Shell: bash
 
 Status: READY
 ```
+<div align="center">
+
+### Linux Distros
+
+<table>
+<tr>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/kubuntu" width="45"/><br>
+Kubuntu
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/ubuntu" width="45"/><br>
+Ubuntu
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/linuxmint" width="45"/><br>
+Mint
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/popos" width="45"/><br>
+Pop!_OS
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/zorin" width="45"/><br>
+Zorin
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/kalilinux" width="45"/><br>
+Kali
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/archlinux" width="45"/><br>
+Arch
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/debian" width="45"/><br>
+Debian
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/fedora" width="45"/><br>
+Fedora
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/nixos" width="45"/><br>
+NixOS
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/manjaro" width="45"/><br>
+Manjaro
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/voidlinux" width="45"/><br>
+Void
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/artixlinux" width="45"/><br>
+Artix
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/garudalinux" width="45"/><br>
+Garuda
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/endeavouros" width="45"/><br>
+EndeavourOS
+</td>
+
+</tr>
+
+</table>
+
+</div>
 
 ---
 
