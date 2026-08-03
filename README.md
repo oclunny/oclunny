@@ -1,3 +1,4 @@
+````markdown
 <div align="center">
 
 # 👾 Miguel Costa
@@ -6,16 +7,22 @@
 const miguel = {
     username: "oclunny",
     role: "Game Developer",
-    specialty: "Full-Stack Development",
+    title: "Full-Stack Developer",
     location: "Portugal 🇵🇹",
     status: "ONLINE",
-    nowPlaying: "🎧 Always Coding"
+    currentFocus: "Building games and cool software"
 };
 ```
 
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="260"/>
-
 ![](https://komarev.com/ghpvc/?username=oclunny&style=for-the-badge&color=6C63FF)
+
+</div>
+
+---
+
+<div align="center">
+
+> *"CTRL + S your dreams before life crashes."*
 
 </div>
 
@@ -26,25 +33,26 @@ const miguel = {
 ```bash
 $ ./boot.sh
 
-Loading profile...
+Initializing profile...
+
 Loading JavaScript...
 Loading C#...
 Loading Lua...
 Loading Unity...
 Loading Roblox Studio...
 Loading Electron...
-Loading Docker...
-Loading Git...
+Loading Linux...
+Loading Projects...
 
 Status: READY
 ```
 
 ---
 
-## about.ts
+## profile.ts
 
 ```ts
-class Miguel {
+export class Miguel {
 
     readonly name = "Miguel Costa";
 
@@ -53,23 +61,24 @@ class Miguel {
     readonly titles = [
         "Full-Stack Developer",
         "Unity Developer",
-        "Roblox Creator"
+        "Linux Enthusiast"
     ];
 
     readonly interests = [
         "Game Development",
         "Backend Development",
-        "Creative Coding",
+        "Open Source",
+        "Linux",
         "Automation",
-        "Open Source"
+        "Creative Coding"
     ];
 
     readonly currentlyLearning = [
-        "Unity",
         "Advanced C#",
+        "Unity",
+        "Backend APIs",
         "Game Architecture",
-        "Docker",
-        "CI/CD"
+        "Docker"
     ];
 
 }
@@ -81,35 +90,55 @@ class Miguel {
 
 ```ts
 interface Project {
+
     name: string;
-    stack: string;
+
+    engine: string;
+
     status: string;
+
 }
 
 const projects: Project[] = [
 
     {
+
         name: "Heartcastle",
-        stack: "RPG Maker MZ",
+
+        engine: "RPG Maker MZ",
+
         status: "Active Development"
+
     },
 
     {
+
         name: "Farm Simulator",
-        stack: "Roblox Studio",
-        status: "In Development"
+
+        engine: "Roblox Studio",
+
+        status: "Building"
+
     },
 
     {
+
         name: "SENTINEL",
-        stack: "Electron",
+
+        engine: "Electron",
+
         status: "Released"
+
     },
 
     {
+
         name: "Portfolio",
-        stack: "HTML • CSS • JavaScript",
+
+        engine: "HTML • CSS • JavaScript",
+
         status: "Online"
+
     }
 
 ];
@@ -157,13 +186,51 @@ const projects: Project[] = [
 
 <img src="https://skillicons.dev/icons?i=js,cs,c,html,css,lua"/>
 
-### Frameworks
+### Frameworks & Tools
 
-<img src="https://skillicons.dev/icons?i=nodejs,electron"/>
+<img src="https://skillicons.dev/icons?i=nodejs,electron,docker,git,github,vscode"/>
 
-### Tools
+</div>
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,githubactions"/>
+---
+
+## linux.sh
+
+```bash
+$ fastfetch
+
+Kernel............. Linux
+Desktop............ KDE Plasma
+Shell.............. bash
+
+Installed Distros
+
+✓ Kubuntu
+✓ Ubuntu
+✓ Linux Mint
+✓ Pop!_OS
+✓ Zorin OS
+✓ Kali Linux
+✓ Artix Linux
+✓ CachyOS
+✓ EndeavourOS
+✓ Garuda Linux
+✓ Manjaro
+✓ Bazzite
+✓ Nobara
+✓ NixOS
+✓ Void Linux
+✓ Debian
+✓ Arch Linux
+✓ Fedora
+✓ Omarchy
+```
+
+<div align="center">
+
+### Favorite Linux Distros
+
+<img src="https://skillicons.dev/icons?i=arch,debian,ubuntu,kali,mint,fedora"/>
 
 </div>
 
@@ -176,15 +243,15 @@ current_focus = [
 
     "Heartcastle",
 
-    "Roblox Development",
-
     "Unity",
 
-    "Backend APIs",
+    "Roblox Development",
 
-    "Game Systems",
+    "Backend Development",
 
-    "Shipping More Projects"
+    "Open Source",
+
+    "Learning Something New Every Day"
 
 ]
 ```
@@ -199,7 +266,7 @@ FROM portfolio
 WHERE status = 'Completed';
 ```
 
-```
+```text
 Heartcastle
 SENTINEL
 Personal Portfolio
@@ -214,7 +281,7 @@ github:
   commits: "∞"
   bugs: "Expected"
   music: "Always Playing 🎧"
-  motivation: "Build Something Better"
+  motivation: "Keep Building"
 ```
 
 ---
@@ -224,28 +291,32 @@ github:
 ```rust
 fn main() {
 
-    learn();
+    while alive() {
 
-    build();
+        learn();
 
-    debug();
+        build();
 
-    deploy();
+        debug();
 
-    repeat();
+        deploy();
+
+        repeat();
+
+    }
 
 }
 ```
 
 ---
 
-## github.tsx
+## github.md
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oclunny&show_icons=true&theme=tokyonight&hide_border=true"/>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=oclunny&show_icons=true&theme=tokyonight&hide_border=true)
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oclunny&layout=compact&theme=tokyonight&hide_border=true"/>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=oclunny&layout=compact&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -256,13 +327,13 @@ fn main() {
 ```ts
 export const links = {
 
+    github: "https://github.com/oclunny",
+
     portfolio: "https://oclunny.github.io",
 
     heartcastle: "https://heartcastle.netlify.app",
 
     sentinel: "https://sentinel-inc.xyz",
-
-    github: "https://github.com/oclunny",
 
     linkedin: "https://www.linkedin.com/in/miguel-costa-6401b5341/",
 
@@ -273,12 +344,20 @@ export const links = {
 
 <div align="center">
 
+<a href="https://github.com/oclunny">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
 <a href="https://oclunny.github.io">
 <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/oclunny">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<a href="https://heartcastle.netlify.app">
+<img src="https://img.shields.io/badge/Heartcastle-7C3AED?style=for-the-badge"/>
+</a>
+
+<a href="https://sentinel-inc.xyz">
+<img src="https://img.shields.io/badge/SENTINEL-0EA5E9?style=for-the-badge"/>
 </a>
 
 <a href="https://www.linkedin.com/in/miguel-costa-6401b5341/">
@@ -293,14 +372,37 @@ export const links = {
 
 ---
 
-## quote.txt
+## repository.tree
 
-```txt
-"Every expert was once a beginner."
+```text
+.
+├── boot.sh
+├── profile.ts
+├── projects.ts
+├── stack.json
+├── linux.sh
+├── focus.py
+├── achievements.sql
+├── stats.yml
+├── future.rs
+├── links.ts
+└── README.md
+```
 
-while(alive) {
-    learn();
-    build();
-    share();
+---
+
+<div align="center">
+
+```cpp
+while (alive) {
+    Learn();
+    Build();
+    Share();
+    Repeat();
 }
 ```
+
+⭐ Thanks for visiting my profile!
+
+</div>
+````
