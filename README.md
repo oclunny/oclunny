@@ -1,253 +1,224 @@
-````markdown
 <div align="center">
 
-<img src="./banner.png" width="100%" alt="Miguel Costa Banner"/>
+<img src="./banner.png" width="100%">
 
-```js
+```ts
 const miguel = {
-    currentVersion: "v2026.0",
-    role: "Game Developer & Full-Stack Developer",
-    location: "Portugal 🇵🇹",
-    status: "Building games. Shipping ideas. Learning every day."
-};
-```
-
-<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="280"/>
-
-![](https://komarev.com/ghpvc/?username=oclunny&style=for-the-badge&color=blueviolet)
-
-</div>
-
----
-
-<div align="center">
-
-> *"CTRL + S your dreams before life crashes."*
-
-**— Miguel Costa**
-
-</div>
-
----
-
-# > booting miguel.exe
-
-```bash
-Initializing profile...
-
-Loading Game Development...
-Loading Full Stack...
-Loading Creative Projects...
-Loading Open Source...
-
-Status: READY
-```
-
----
-
-## `aboutMe.js`
-
-```javascript
-const miguel = {
-
-    name: "Miguel Costa",
-
-    role: "Game Developer",
-
+    alias: "oclunny",
+    class: "GameDeveloper",
+    level: 21,
     location: "Portugal",
-
-    titles: [
-        "Full-Stack Developer",
-        "Unity Developer",
-        "Roblox Creator"
-    ],
-
-    interests: [
-        "Game Development",
-        "Web Development",
-        "Automation",
-        "Backend Systems",
-        "UI/UX",
-        "Creative Coding"
-    ],
-
-    passionateAbout: [
-        "Building immersive games",
-        "Creating useful applications",
-        "Learning new technologies",
-        "Turning ideas into reality"
-    ],
-
-    currentlyLearning: [
-        "C#",
-        "Unity",
-        "Docker",
-        "CI/CD",
-        "Game Architecture"
-    ]
+    currently: "Building games & weird projects",
+    status: "ONLINE"
 };
 ```
-
----
-
-## `projects.sh`
-
-```bash
-$ projects --list
-
-✓ Heartcastle
-  ↳ Dark fantasy RPG built with RPG Maker MZ
-
-✓ Roblox Farm Simulator
-  ↳ Cozy farming experience with multiplayer gameplay
-
-✓ SENTINEL
-  ↳ Electron desktop application
-
-✓ Personal Portfolio
-  ↳ Constantly evolving developer portfolio
-```
-
----
-
-## `techStack.json`
-
-<div align="center">
-
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,cs,c,html,css,lua" />
-
-### Frameworks & Platforms
-
-<img src="https://skillicons.dev/icons?i=nodejs,electron,unity" />
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,githubactions" />
 
 </div>
 
 ---
 
-## `currentlyWorkingOn.py`
+# boot.ts
 
-```python
-current_focus = [
+```bash
+$ npm run profile
 
-    "Building Heartcastle",
+✔ Loading Unity...
+✔ Loading Roblox Studio...
+✔ Loading Electron...
+✔ Loading Web Development...
+✔ Loading Coffee...
 
-    "Developing Roblox Games",
-
-    "Learning Advanced Unity",
-
-    "Improving Backend Skills",
-
-    "Exploring Game Systems",
-
-    "Shipping More Projects"
-]
+Ready.
 ```
 
 ---
 
-## `careerPath.js`
+## profile.ts
 
-```javascript
-async function future() {
+```ts
+export class Miguel {
 
-    await buildGames();
+    constructor() {
+        this.name = "Miguel Costa";
+        this.role = "Game Developer";
+    }
 
-    await shipProjects();
+    skills() {
+        return [
+            "JavaScript",
+            "C#",
+            "Lua",
+            "Unity",
+            "Node.js",
+            "Docker"
+        ];
+    }
 
-    await keepLearning();
+    interests() {
+        return [
+            "Game Systems",
+            "Backend",
+            "AI",
+            "Open Source"
+        ];
+    }
 
-    return "Independent Game Developer";
 }
 ```
 
 ---
 
-## `featuredProjects.md`
+## projects.ts
 
-### 🎮 Heartcastle
+```ts
+interface Project {
+    name: string;
+    engine: string;
+    status: string;
+}
 
-Dark fantasy RPG inspired by classic adventure games.
+const projects: Project[] = [
 
-🌐 https://heartcastle.netlify.app/
+    {
+        name: "Heartcastle",
+        engine: "RPG Maker MZ",
+        status: "Active Development"
+    },
 
----
+    {
+        name: "Farm Simulator",
+        engine: "Roblox Studio",
+        status: "Building"
+    },
 
-### 🌾 Roblox Farm Simulator
+    {
+        name: "Sentinel",
+        engine: "Electron",
+        status: "Released"
+    }
 
-A relaxing farming game with progression, multiplayer and plenty of chaos.
-
----
-
-### 🛡️ SENTINEL
-
-An Electron desktop application built while exploring cross-platform development.
-
-🌐 https://sentinel-inc.xyz
-
----
-
-## `githubStats.ts`
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=oclunny&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oclunny&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+];
+```
 
 ---
 
-## `connect.js`
+## skills.json
 
-```javascript
-const links = {
+```json
+{
+    "languages": [
+        "JavaScript",
+        "TypeScript",
+        "C#",
+        "Lua",
+        "C",
+        "HTML",
+        "CSS"
+    ],
 
-    portfolio: "https://oclunny.github.io",
+    "frameworks": [
+        "Node.js",
+        "Electron"
+    ],
 
-    email: "mailto:miguellomcostta@icloud.com",
+    "engines": [
+        "Unity",
+        "Roblox Studio",
+        "RPG Maker"
+    ],
 
-    linkedin: "https://www.linkedin.com/in/miguel-costa-6401b5341/",
+    "tools": [
+        "Docker",
+        "Git",
+        "GitHub Actions",
+        "VS Code"
+    ]
+}
+```
 
-    heartcastle: "https://heartcastle.netlify.app/",
+---
 
-    sentinel: "https://sentinel-inc.xyz"
-};
+## currentFocus.py
+
+```python
+current_focus = [
+
+    "Heartcastle",
+
+    "Unity",
+
+    "Advanced C#",
+
+    "Backend Development",
+
+    "Game Architecture",
+
+    "AI Experiments"
+
+]
+```
+
+---
+
+## achievements.sql
+
+```sql
+SELECT project_name
+FROM portfolio
+WHERE status = "Completed";
+```
+
+```
+Heartcastle
+Sentinel
+Portfolio Website
+```
+
+---
+
+## future.rs
+
+```rust
+fn main() {
+
+    learn();
+
+    build();
+
+    ship();
+
+    repeat();
+
+}
+```
+
+---
+
+## stats.yml
+
+```yaml
+github:
+  commits: "∞"
+  bugs: "Too many"
+  coffee: "Required"
+  motivation: "100%"
 ```
 
 <div align="center">
 
-<a href="https://oclunny.github.io">
-<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/oclunny">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/miguel-costa-6401b5341/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:miguellomcostta@icloud.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<!-- GitHub Stats -->
 
 </div>
 
 ---
 
-<div align="center">
+## links.ts
 
-### Thanks for stopping by 👾
-
-*"Every bug is just an undocumented feature waiting to become a lesson."*
-
-</div>
-````
+```ts
+const links = {
+    website: "https://oclunny.github.io",
+    heartcastle: "https://heartcastle.netlify.app",
+    sentinel: "https://sentinel-inc.xyz",
+    github: "https://github.com/oclunny"
+};
+```
