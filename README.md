@@ -20,7 +20,7 @@
 
 ---
 
-<div>
+<div align="center">
   
 ## 🏰 Current Quests
 
