@@ -268,6 +268,63 @@ export const links = {
     email: "mailto:miguellomcostta@icloud.com"
 
 };
+
+---
+
+## linux.sh
+
+```bash
+$ fastfetch
+
+OS Environment:
+
+✓ Kubuntu
+
+✓ Ubuntu
+
+✓ Linux Mint
+
+✓ Pop!_OS
+
+✓ Zorin OS
+
+✓ Kali Linux
+
+✓ Artix Linux
+
+✓ CachyOS
+
+✓ EndeavourOS
+
+✓ Garuda Linux
+
+✓ Manjaro
+
+✓ Bazzite
+
+✓ Nobara
+
+✓ NixOS
+
+✓ Void Linux
+
+✓ Debian
+
+✓ Arch Linux
+
+✓ Fedora
+
+✓ Omarchy
+
+
+System:
+
+Kernel: Linux
+
+Shell: bash
+
+Status: READY
+
 ```
 
 <div align="center">
