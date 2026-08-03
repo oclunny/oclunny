@@ -20,6 +20,8 @@
 
 ---
 
+<div>
+  
 ## 🏰 Current Quests
 
 | Quest | Tech Stack | Status / Link |
@@ -27,6 +29,8 @@
 | 👻 **Heartcastle** | RPG Maker MZ | 🏰 [Play / View Site](https://heartcastle.netlify.app/) |
 | 🌾 **Farm Simulator** | Roblox Studio, Lua | 🌽 *Cozy farming with a splash of chaos* |
 | 📱 **SENTINEL** | Electron, JS | ⚡ [Check out App](https://sentinel-inc.xyz) *(It runs... mostly!)* |
+
+</div>
 
 ---
 
