@@ -1,67 +1,76 @@
 <div align="center">
 
-<img src="./banner.png" width="100%">
+# 👾 Miguel Costa
 
 ```ts
 const miguel = {
-    alias: "oclunny",
-    class: "GameDeveloper",
-    level: 21,
-    location: "Portugal",
-    currently: "Building games & weird projects",
-    status: "ONLINE"
+    username: "oclunny",
+    role: "Game Developer",
+    specialty: "Full-Stack Development",
+    location: "Portugal 🇵🇹",
+    status: "ONLINE",
+    nowPlaying: "🎧 Always Coding"
 };
 ```
+
+<img src="https://media.giphy.com/media/26ufnwz3wDUli7GU0/giphy.gif" width="260"/>
+
+![](https://komarev.com/ghpvc/?username=oclunny&style=for-the-badge&color=6C63FF)
 
 </div>
 
 ---
 
-# boot.ts
+# boot.sh
 
 ```bash
-$ npm run profile
+$ ./boot.sh
 
-✔ Loading Unity...
-✔ Loading Roblox Studio...
-✔ Loading Electron...
-✔ Loading Web Development...
-✔ Loading Coffee...
+Loading profile...
+Loading JavaScript...
+Loading C#...
+Loading Lua...
+Loading Unity...
+Loading Roblox Studio...
+Loading Electron...
+Loading Docker...
+Loading Git...
 
-Ready.
+Status: READY
 ```
 
 ---
 
-## profile.ts
+## about.ts
 
 ```ts
-export class Miguel {
+class Miguel {
 
-    constructor() {
-        this.name = "Miguel Costa";
-        this.role = "Game Developer";
-    }
+    readonly name = "Miguel Costa";
 
-    skills() {
-        return [
-            "JavaScript",
-            "C#",
-            "Lua",
-            "Unity",
-            "Node.js",
-            "Docker"
-        ];
-    }
+    readonly role = "Game Developer";
 
-    interests() {
-        return [
-            "Game Systems",
-            "Backend",
-            "AI",
-            "Open Source"
-        ];
-    }
+    readonly titles = [
+        "Full-Stack Developer",
+        "Unity Developer",
+        "Roblox Creator"
+    ];
+
+    readonly interests = [
+        "Game Development",
+        "Backend Development",
+        "Creative Coding",
+        "Automation",
+        "Open Source"
+    ];
+
+    readonly currentlyLearning = [
+        "Unity",
+        "Advanced C#",
+        "Game Architecture",
+        "Docker",
+        "CI/CD"
+    ];
 
 }
 ```
@@ -73,7 +82,7 @@ export class Miguel {
 ```ts
 interface Project {
     name: string;
-    engine: string;
+    stack: string;
     status: string;
 }
 
@@ -81,20 +90,26 @@ const projects: Project[] = [
 
     {
         name: "Heartcastle",
-        engine: "RPG Maker MZ",
+        stack: "RPG Maker MZ",
         status: "Active Development"
     },
 
     {
         name: "Farm Simulator",
-        engine: "Roblox Studio",
-        status: "Building"
+        stack: "Roblox Studio",
+        status: "In Development"
     },
 
     {
-        name: "Sentinel",
-        engine: "Electron",
+        name: "SENTINEL",
+        stack: "Electron",
         status: "Released"
+    },
+
+    {
+        name: "Portfolio",
+        stack: "HTML • CSS • JavaScript",
+        status: "Online"
     }
 
 ];
@@ -102,13 +117,12 @@ const projects: Project[] = [
 
 ---
 
-## skills.json
+## stack.json
 
 ```json
 {
     "languages": [
         "JavaScript",
-        "TypeScript",
         "C#",
         "Lua",
         "C",
@@ -124,36 +138,53 @@ const projects: Project[] = [
     "engines": [
         "Unity",
         "Roblox Studio",
-        "RPG Maker"
+        "RPG Maker MZ"
     ],
 
     "tools": [
-        "Docker",
         "Git",
+        "GitHub",
+        "Docker",
         "GitHub Actions",
         "VS Code"
     ]
 }
 ```
 
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=js,cs,c,html,css,lua"/>
+
+### Frameworks
+
+<img src="https://skillicons.dev/icons?i=nodejs,electron"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,githubactions"/>
+
+</div>
+
 ---
 
-## currentFocus.py
+## focus.py
 
 ```python
 current_focus = [
 
     "Heartcastle",
 
+    "Roblox Development",
+
     "Unity",
 
-    "Advanced C#",
+    "Backend APIs",
 
-    "Backend Development",
+    "Game Systems",
 
-    "Game Architecture",
-
-    "AI Experiments"
+    "Shipping More Projects"
 
 ]
 ```
@@ -165,13 +196,25 @@ current_focus = [
 ```sql
 SELECT project_name
 FROM portfolio
-WHERE status = "Completed";
+WHERE status = 'Completed';
 ```
 
 ```
 Heartcastle
-Sentinel
-Portfolio Website
+SENTINEL
+Personal Portfolio
+```
+
+---
+
+## stats.yml
+
+```yaml
+github:
+  commits: "∞"
+  bugs: "Expected"
+  music: "Always Playing 🎧"
+  motivation: "Build Something Better"
 ```
 
 ---
@@ -185,7 +228,9 @@ fn main() {
 
     build();
 
-    ship();
+    debug();
+
+    deploy();
 
     repeat();
 
@@ -194,19 +239,13 @@ fn main() {
 
 ---
 
-## stats.yml
-
-```yaml
-github:
-  commits: "∞"
-  bugs: "Too many"
-  coffee: "Required"
-  motivation: "100%"
-```
+## github.tsx
 
 <div align="center">
 
-<!-- GitHub Stats -->
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=oclunny&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oclunny&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -215,10 +254,53 @@ github:
 ## links.ts
 
 ```ts
-const links = {
-    website: "https://oclunny.github.io",
+export const links = {
+
+    portfolio: "https://oclunny.github.io",
+
     heartcastle: "https://heartcastle.netlify.app",
+
     sentinel: "https://sentinel-inc.xyz",
-    github: "https://github.com/oclunny"
+
+    github: "https://github.com/oclunny",
+
+    linkedin: "https://www.linkedin.com/in/miguel-costa-6401b5341/",
+
+    email: "mailto:miguellomcostta@icloud.com"
+
 };
+```
+
+<div align="center">
+
+<a href="https://oclunny.github.io">
+<img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="https://github.com/oclunny">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/miguel-costa-6401b5341/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:miguellomcostta@icloud.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+## quote.txt
+
+```txt
+"Every expert was once a beginner."
+
+while(alive) {
+    learn();
+    build();
+    share();
+}
 ```
