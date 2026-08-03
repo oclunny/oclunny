@@ -22,11 +22,7 @@
 
 </div>
 
-<br/>
-
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🏰 Current Quests
 
@@ -58,8 +54,6 @@
 <br/>
 
 ---
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🧰 Tech Arsenal
 
@@ -96,14 +90,12 @@
 
 ---
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4300-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## 📊 Performance & Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=oclunny&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=8A2BE2&icon_color=00E5FF" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oclunny&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=8A2BE2" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=oclunny&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=oclunny&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
