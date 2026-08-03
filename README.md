@@ -274,7 +274,9 @@ export const links = {
 
 ## linux.sh
 
-```bash
+```
+bash
+
 $ fastfetch
 
 OS Environment:
