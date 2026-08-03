@@ -252,7 +252,8 @@ fn main() {
 
 ## links.ts
 
-```ts
+```
+ts
 export const links = {
 
     portfolio: "https://oclunny.github.io",
