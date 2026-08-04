@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="https://metrics.lecoq.io/oclunny?template=classic&base=activity&base.indepth=false&config.timezone=Europe%2FLisbon" alt="Metrics Grid" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=oclunny&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Animated Stats Card" />
 </p>
 
 
