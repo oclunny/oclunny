@@ -373,9 +373,8 @@ WHERE status = 'Completed';
 ```
 
 ```
-Heartcastle
+HEARTCASTLE
 SENTINEL
-Personal Portfolio
 ```
 
 ---
