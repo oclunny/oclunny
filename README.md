@@ -218,8 +218,8 @@ Status: READY
 <tr>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/kubuntu" width="45"/><br>
-Kubuntu
+<img src="https://cdn.simpleicons.org/omarchy" width="45"/><br>
+Omarchy
 </td>
 
 <td align="center">
@@ -296,39 +296,11 @@ Garuda
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/endeavouros" width="45"/><br>
-EndeavourOS
-</td>
-
-</tr>
-
-<tr>
-    
-<td align="center">
 <img src="https://cdn.simpleicons.org/cachyos" width="45"/><br>
 CachyOS
 </td>
 
-<td align="center">
-<img src="https://cdn.simpleicons.org/omarchy" width="45"/><br>
-Omarchy
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/windows" width="45"/><br>
-Windows
-</td>
-
-<td align="center">
-(And More)
-</td>
-
-
-
-
 </tr>
-
-
 
 </table>
 
