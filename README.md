@@ -24,20 +24,18 @@
 </div>
 
 ---
-
+```
 $ ./boot.sh
 
-```
-[+] Initializing environment...
-[+] Loading Web Core ........ [HTML, CSS, JavaScript]
-[+] Loading Languages ....... [Python, C#, Lua, SQL]
-[+] Loading Engines & Frameworks [Unity, Electron, Flask]
-[+] Loading Security & Ops .. [Linux, Git, Postman]
-[+] Loading AI Modules ...... [ChatGPT, Claude, Gemini]
+Loading Profile...
+Loading Cybersecurity Toolkit...
+Loading AI Integrations...
+Loading Python & Flask...
+Loading Game Systems (Unity)...
+Loading Web & Electron...
+Loading Linux Environment...
 
-[✓] All systems operational.
-Status: READY
-```
+Status: READY [0 Errors, 0 Warnings]
 ---
 
 ## about.ts
