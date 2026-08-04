@@ -4,7 +4,7 @@
   </a>
 </p>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=👾%20Miguel%20Costa&fontSize=42&fontColor=ffffff&animation=twinkling" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=%20Miguel%20Costa&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 
 <p align="center">
@@ -14,24 +14,6 @@
 </p>
 
 
-
-
-
-<div align="center">
-```ts
-const miguel = {
-    username: "oclunny",
-    role: "Game Developer",
-    specialty: "Full-Stack Development",
-    location: "Portugal 🇵🇹",
-    status: "ONLINE",
-    nowPlaying: "🎧 Always Coding"
-};
-```
-
-![](https://komarev.com/ghpvc/?username=oclunny&style=for-the-badge&color=6C63FF)
-
-</div>
 
 ---
 
@@ -487,3 +469,5 @@ while(alive) {
     share();
 }
 ```
+
+![](https://komarev.com/ghpvc/?username=oclunny&style=for-the-badge&color=6C63FF)
