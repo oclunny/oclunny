@@ -332,15 +332,15 @@ github:
 ```ts
 export const links = {
 
-    [portfolio: "https://oclunny.github.io",](https://oclunny.github.io)
+    portfolio: "https://oclunny.github.io",
 
-    [heartcastle: "https://heartcastle.netlify.app",](https://heartcastle.netlify.app)
+    heartcastle: "https://heartcastle.netlify.app",
 
-    [sentinel: "https://sentinel-inc.xyz",](https://sentinel-inc.xyz)
+    sentinel: "https://sentinel-inc.xyz",
 
-    [github: "https://github.com/oclunny",](https://github.com/oclunny)
+    github: "https://github.com/oclunny",
 
-    [linkedin: "https://www.linkedin.com/in/miguel-costa-6401b5341",](https://www.linkedin.com/in/miguel-costa-6401b5341)
+    linkedin: "https://www.linkedin.com/in/miguel-costa-6401b5341",
 
     mail: "mailto:miguellomcostta@icloud.com"
 
