@@ -409,7 +409,9 @@ fn main() {
 ## github.tsx
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=oclunny&theme=tokyonight&hide_border=true" alt="WakaTime Stats" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=oclunny&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
+  </a>
 </p>
 
 ---
