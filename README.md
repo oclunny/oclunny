@@ -14,8 +14,9 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF66&background=0D1117&center=false&vCenter=true&multiline=true&width=500&height=120&lines=%24+nmap+-sV+-p-+target.local;%5B%2B%5D+Scanning+network...;%5B%2B%5D+Access+Granted+%3A%3A+Miguel+Costa;%5B%2B%5D+System+Ready." alt="Terminal Output" />
+  <img src="https://metrics.lecoq.io/oclunny?template=classic&base=activity&base.indepth=false&config.timezone=Europe%2FLisbon" alt="Metrics Grid" />
 </p>
+
 
 ---
 
