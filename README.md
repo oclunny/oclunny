@@ -326,10 +326,8 @@ github:
 </div>
 
 
-
----
-
-## 🌐 FIND_ME.sh
+<div align="center">
+## FIND_ME.sh
 
 ```text
   _____ ___ _  _ ___    __  __ ___ 
@@ -337,7 +335,7 @@ github:
  | _| | || .` | |) | | |\/| | _| 
  |_| |___|_|\_|___/  |_|  |_|___|
 ```
-
+</div>
 
 
 <div align="center">
