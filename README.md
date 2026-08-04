@@ -239,6 +239,35 @@ Zorin
 <tr>
 
 <td align="center">
+<img src="https://cdn.simpleicons.org/manjaro" width="45"/><br>
+Manjaro
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/voidlinux" width="45"/><br>
+Void
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/artixlinux" width="45"/><br>
+Artix
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/garudalinux" width="45"/><br>
+Garuda
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/cachyos" width="45"/><br>
+CachyOS
+</td>
+
+</tr>
+
+<tr>
+
+<td align="center">
 <img src="https://cdn.simpleicons.org/kalilinux" width="45"/><br>
 Kali
 </td>
@@ -265,34 +294,7 @@ Pop!_OS
 
 </tr>
 
-<tr>
 
-<td align="center">
-<img src="https://cdn.simpleicons.org/manjaro" width="45"/><br>
-Manjaro
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/voidlinux" width="45"/><br>
-Void
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/artixlinux" width="45"/><br>
-Artix
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/garudalinux" width="45"/><br>
-Garuda
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/cachyos" width="45"/><br>
-CachyOS
-</td>
-
-</tr>
 
 </table>
 
