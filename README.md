@@ -13,12 +13,6 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=oclunny&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Animated Stats Card" />
-</p>
-
-
-
 
 ## $ ./boot.sh
 
