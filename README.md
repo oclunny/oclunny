@@ -408,11 +408,11 @@ fn main() {
 
 ## github.tsx
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=oclunny&theme=tokyonight&no-frame=true&column=4" alt="GitHub Trophies" />
-  </a>
-</p>
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/oclunny/oclunny/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+
+</div>
 
 ---
 
