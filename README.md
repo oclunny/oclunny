@@ -50,13 +50,7 @@ class Miguel {
 
     readonly name = "Miguel Costa";
 
-    readonly role = "Game Developer";
-
-    readonly titles = [
-        "Full-Stack Developer",
-        "Unity Developer",
-        "Roblox Creator"
-    ];
+    readonly role = "Developer & Linux Enthusiast";
 
     readonly interests = [
         "Developing something",
@@ -162,8 +156,6 @@ $ fastfetch
 
 OS Environment:
 
-✓ Kubuntu
-
 ✓ Ubuntu
 
 ✓ Linux Mint
@@ -218,13 +210,13 @@ Status: READY
 <tr>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/omarchy" width="45"/><br>
-Omarchy
+<img src="https://cdn.simpleicons.org/archlinux" width="45"/><br>
+Arch
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/ubuntu" width="45"/><br>
-Ubuntu
+<img src="https://cdn.simpleicons.org/omarchy" width="45"/><br>
+Omarchy
 </td>
 
 <td align="center">
@@ -233,8 +225,8 @@ Mint
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/popos" width="45"/><br>
-Pop!_OS
+<img src="https://cdn.simpleicons.org/nixos" width="45"/><br>
+NixOS
 </td>
 
 <td align="center">
@@ -252,8 +244,8 @@ Kali
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/archlinux" width="45"/><br>
-Arch
+<img src="https://cdn.simpleicons.org/ubuntu" width="45"/><br>
+Ubuntu
 </td>
 
 <td align="center">
@@ -267,8 +259,8 @@ Fedora
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/nixos" width="45"/><br>
-NixOS
+<img src="https://cdn.simpleicons.org/popos" width="45"/><br>
+Pop!_OS
 </td>
 
 </tr>
