@@ -24,8 +24,10 @@
 </div>
 
 ---
-```
+
 $ ./boot.sh
+
+```
 
 Loading Profile...
 Loading Cybersecurity Toolkit...
