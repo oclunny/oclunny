@@ -15,7 +15,7 @@
 
 ---
 
-## 📊 3d_activity.sys
+## 3d_activity.sys
 
 <div align="center">
 
