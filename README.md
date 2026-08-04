@@ -156,42 +156,21 @@ $ fastfetch
 
 OS Environment:
 
-✓ Ubuntu
-
-✓ Linux Mint
-
-✓ Pop!_OS
-
-✓ Zorin OS
-
-✓ Kali Linux
-
-✓ Artix Linux
-
-✓ CachyOS
-
-✓ EndeavourOS
-
-✓ Garuda Linux
-
-✓ Manjaro
-
-✓ Bazzite
-
-✓ Nobara
-
-✓ NixOS
-
-✓ Void Linux
-
-✓ Debian
-
 ✓ Arch Linux
-
-✓ Fedora
-
+✓ NixOS
+✓ Artix Linux
+✓ CachyOS
 ✓ Omarchy
-
+✓ Linux Mint
+✓ Fedora
+✓ Zorin OS
+✓ Void Linux
+✓ Garuda Linux
+✓ Kali Linux
+✓ Ubuntu
+✓ Debian
+✓ Pop!_OS
+✓ Manjaro
 (And More)
 
 System:
