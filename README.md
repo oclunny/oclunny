@@ -409,8 +409,7 @@ fn main() {
 ## github.tsx
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=oclunny&show_icons=true&theme=tokyonight&hide_border=true" alt="Miguel's GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oclunny&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=oclunny&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
