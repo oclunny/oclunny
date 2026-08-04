@@ -478,10 +478,12 @@ while(alive) {
 }
 ```
 
-```
 <div align="center">
+
+```
 
 ![](https://komarev.com/ghpvc/?username=oclunny&style=for-the-badge&color=6C63FF)
 
-</div>
+
 ```
+</div>
