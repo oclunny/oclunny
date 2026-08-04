@@ -13,6 +13,12 @@
   </a>
 </p>
 
+
+<p align="center">
+  <img src="https://spotify-github-profile-850y.vercel.app/api/run-spotify-everywhere?theme=tokyonight" alt="Spotify Player" />
+</p>
+
+
 ---
 
 ## 3d_activity.sys
