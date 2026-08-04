@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://spotify-github-profile-850y.vercel.app/api/run-spotify-everywhere?theme=tokyonight" alt="Spotify Player" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oclunny&theme=tokyonight&hide_border=true&area=true" alt="Activity Wave Graph" />
 </p>
 
 
