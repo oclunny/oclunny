@@ -364,7 +364,7 @@ github:
 ## quote.txt
 
 ```txt
-"Every expert was once a beginner."
+"Every expert was once a beginner just like me, or... Elon Musk."
 
 while(alive) {
     learn();
