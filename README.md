@@ -59,8 +59,7 @@ class Miguel {
     ];
 
     readonly interests = [
-        "Game Development",
-        "Backend Development",
+        "Developing something",
         "Creative Coding",
         "Automation",
         "Open Source",
@@ -68,11 +67,8 @@ class Miguel {
     ];
 
     readonly currentlyLearning = [
-        "Unity",
-        "Advanced C#",
-        "Game Architecture",
-        "Docker",
-        "CI/CD"
+        "Cybersecurity",
+        "Japanese",
     ];
 
 }
@@ -94,13 +90,13 @@ const projects: Project[] = [
     {
         name: "Heartcastle",
         stack: "RPG Maker MZ",
-        status: "Active Development"
+        status: "Complete"
     },
 
     {
         name: "Farm Simulator",
         stack: "Roblox Studio",
-        status: "In Development"
+        status: "In Development (just4fun)"
     },
 
     {
@@ -108,12 +104,6 @@ const projects: Project[] = [
         stack: "Electron",
         status: "Released"
     },
-
-    {
-        name: "Portfolio",
-        stack: "HTML • CSS • JavaScript",
-        status: "Online"
-    }
 
 ];
 ```
@@ -126,9 +116,8 @@ const projects: Project[] = [
 {
     "languages": [
         "JavaScript",
-        "C#",
+        "Python",
         "Lua",
-        "C",
         "HTML",
         "CSS"
     ],
@@ -138,18 +127,12 @@ const projects: Project[] = [
         "Electron"
     ],
 
-    "engines": [
-        "Unity",
-        "Roblox Studio",
-        "RPG Maker MZ"
-    ],
-
     "tools": [
         "Git",
         "GitHub",
-        "Docker",
         "GitHub Actions",
-        "VS Code"
+        "VS Code",
+        "Vim and Neovim <3"
     ]
 }
 ```
@@ -158,7 +141,7 @@ const projects: Project[] = [
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=js,cs,c,html,css,lua"/>
+<img src="https://skillicons.dev/icons?i=js,py,lua,html,css"/>
 
 ### Frameworks
 
@@ -166,7 +149,7 @@ const projects: Project[] = [
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,docker,vscode,githubactions"/>
+<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vim,neovim"/>
 
 </div>
 
@@ -217,6 +200,7 @@ OS Environment:
 
 ✓ Omarchy
 
+(And More)
 
 System:
 
@@ -329,6 +313,18 @@ CachyOS
 <img src="https://cdn.simpleicons.org/omarchy" width="45"/><br>
 Omarchy
 </td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/windows" width="45"/><br>
+Windows
+</td>
+
+<td align="center">
+(And More)
+</td>
+
+
+
 
 </tr>
 
