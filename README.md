@@ -13,7 +13,15 @@
   </a>
 </p>
 
+---
 
+## 📊 3d_activity.sys
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/oclunny/oclunny/main/profile-3d-contrib/profile-night-view.svg" alt="3D Profile Graph" />
+
+</div>
 
 ---
 
