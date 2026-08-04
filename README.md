@@ -15,7 +15,7 @@
 
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=oclunny&theme=tokyonight&hide_border=true&area=true" alt="Activity Wave Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=oclunny&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="GitHub Profile Trophies" />
 </p>
 
 
