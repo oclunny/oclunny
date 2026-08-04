@@ -36,7 +36,7 @@ Status: READY [0 Errors, 0 Warnings]
 
 ```
 
----
+
 
 ## about.ts
 
@@ -97,7 +97,7 @@ const projects: Project[] = [
 ];
 ```
 
----
+
 
 ## stack.json
 
@@ -142,7 +142,7 @@ const projects: Project[] = [
 
 </div>
 
----
+
 
 ## linux.sh
 
@@ -272,7 +272,7 @@ Manjaro
 
 </div>
 
----
+
 
 ## focus.py
 
@@ -288,7 +288,7 @@ current_focus = [
 ]
 ```
 
----
+
 
 ## achievements.sql
 
@@ -303,7 +303,7 @@ HEARTCASTLE
 SENTINEL
 ```
 
----
+
 
 ## stats.yml
 
@@ -315,7 +315,7 @@ github:
   motivation: "Build Something Better"
 ```
 
----
+
 
 ## github.tsx
 
@@ -325,7 +325,7 @@ github:
 
 </div>
 
----
+
 
 ## links.ts
 
@@ -347,7 +347,7 @@ export const links = {
 };
 ```
 
----
+
 
 <div align="center">
 
@@ -369,7 +369,7 @@ export const links = {
 
 </div>
 
----
+
 
 ## quote.txt
 
