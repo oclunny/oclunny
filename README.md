@@ -446,15 +446,15 @@ export const links = {
 
 <div align="center">
 
-<a href="https://oclunny.github.io">
+<a href="[https://oclunny.github.io](https://oclunny.github.io)">
 <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
 </a>
 
-<a href="https://github.com/oclunny">
+<a href="[https://github.com/oclunny](https://github.com/oclunny)">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="https://www.linkedin.com/in/miguel-costa-6401b5341/">
+<a href="[https://www.linkedin.com/in/miguel-costa-6401b5341/](https://www.linkedin.com/in/miguel-costa-6401b5341/)">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
