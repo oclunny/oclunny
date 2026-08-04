@@ -215,37 +215,8 @@ Arch
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/omarchy" width="45"/><br>
-Omarchy
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/linuxmint" width="45"/><br>
-Mint
-</td>
-
-<td align="center">
 <img src="https://cdn.simpleicons.org/nixos" width="45"/><br>
 NixOS
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/zorin" width="45"/><br>
-Zorin
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/manjaro" width="45"/><br>
-Manjaro
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/voidlinux" width="45"/><br>
-Void
 </td>
 
 <td align="center">
@@ -254,13 +225,42 @@ Artix
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/garudalinux" width="45"/><br>
-Garuda
+<img src="https://cdn.simpleicons.org/cachyos" width="45"/><br>
+CachyOS
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/cachyos" width="45"/><br>
-CachyOS
+<img src="https://cdn.simpleicons.org/omarchy" width="45"/><br>
+Omarchy
+</td>
+
+</tr>
+
+<tr>
+  
+<td align="center">
+<img src="https://cdn.simpleicons.org/linuxmint" width="45"/><br>
+Mint
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/fedora" width="45"/><br>
+Fedora
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/zorin" width="45"/><br>
+Zorin
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/voidlinux" width="45"/><br>
+Void
+</td>
+
+<td align="center">
+<img src="https://cdn.simpleicons.org/garudalinux" width="45"/><br>
+Garuda
 </td>
 
 </tr>
@@ -283,18 +283,16 @@ Debian
 </td>
 
 <td align="center">
-<img src="https://cdn.simpleicons.org/fedora" width="45"/><br>
-Fedora
-</td>
-
-<td align="center">
 <img src="https://cdn.simpleicons.org/popos" width="45"/><br>
 Pop!_OS
 </td>
 
+<td align="center">
+<img src="https://cdn.simpleicons.org/manjaro" width="45"/><br>
+Manjaro
+</td>
+
 </tr>
-
-
 
 </table>
 
