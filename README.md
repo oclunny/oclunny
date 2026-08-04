@@ -1,8 +1,9 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=Game/App+Developer;Smart+AI+Implementer;Cybersecurity+Student;Linux+Enthusiast;Quick+Problem+Solver" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&height=50&lines=%E3%82%B2%E3%83%BC%E3%83%A0%2F%E3%82%A2%E3%83%97%E3%83%AA%E9%96%8B%E7%99%BA%E8%80%85;AI%E5%AE%9F%E8%A3%85%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2;%E3%82%B5%E3%82%A4%E3%83%90%E3%83%BC%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E5%AD%A6%E7%94%9F;Linux%E8%86%A5%E5%88%A9;%E5%95%8F%E9%A1%8C%E8%A7%A3%E6%B1%BA%E8%80%85" alt="Typing SVG" />
   </a>
 </p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=%20Miguel%20Costa&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
