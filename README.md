@@ -347,17 +347,11 @@ Omarchy
 ```python
 current_focus = [
 
-    "Heartcastle",
+    "Cybersecurity",
 
-    "Roblox Development",
+    "Development",
 
-    "Unity",
-
-    "Backend APIs",
-
-    "Game Systems",
-
-    "Shipping More Projects"
+    "New Projects",
 
 ]
 ```
