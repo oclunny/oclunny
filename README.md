@@ -14,10 +14,6 @@
 </p>
 
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=oclunny&theme=tokyonight&no-frame=true&column=4&margin-w=15" alt="GitHub Profile Trophies" />
-</p>
-
 
 ---
 
