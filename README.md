@@ -392,23 +392,6 @@ github:
 
 ---
 
-## future.rs
-
-```rust
-fn main() {
-
-    learn();
-
-    build();
-
-    debug();
-
-    deploy();
-
-    repeat();
-
-}
-```
 
 ---
 
