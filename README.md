@@ -327,24 +327,15 @@ github:
 
 
 
-## links.ts
+---
 
-```ts
-export const links = {
+## 🌐 FIND_ME.sh
 
-    portfolio: "https://oclunny.github.io",
-
-    heartcastle: "https://heartcastle.netlify.app",
-
-    sentinel: "https://sentinel-inc.xyz",
-
-    github: "https://github.com/oclunny",
-
-    linkedin: "https://www.linkedin.com/in/miguel-costa-6401b5341",
-
-    mail: "mailto:miguellomcostta@icloud.com"
-
-};
+```text
+  _____ ___ _  _ ___    __  __ ___ 
+ | __|_ _| \| |   \  |  \/  | __|
+ | _| | || .` | |) | | |\/| | _| 
+ |_| |___|_|\_|___/  |_|  |_|___|
 ```
 
 
