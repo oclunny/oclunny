@@ -1,9 +1,8 @@
 <p align="center">
   <a href="https://readme-typing-svg.demolab.com">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&height=50&lines=Game+Developer;Full-Stack+Developer;Unity+%26+Roblox+Creator;Linux+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=6C63FF&center=true&vCenter=true&width=500&height=50&lines=Game+Developer;Smart+AI+Implementer;Cybersecurity+Student;Linux+Enthusiast;Quick+Problem+Solver" alt="Typing SVG" />
   </a>
 </p>
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6C63FF&height=180&section=header&text=👾%20Miguel%20Costa&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
@@ -19,9 +18,6 @@
 
 
 <div align="center">
-
-# 👾 Miguel Costa
-
 ```ts
 const miguel = {
     username: "oclunny",
