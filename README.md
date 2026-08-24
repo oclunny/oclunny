@@ -39,7 +39,7 @@ Status: READY [0 Errors, 0 Warnings]
 ```ts
 class Miguel {
 
-    readonly name = "Miguel Costa";
+    readonly name = "Miguel Ângelo";
 
     readonly role = "Developer & Linux Enthusiast";
 
