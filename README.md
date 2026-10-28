@@ -2,6 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=180&section=header&text=%20Miguel%20Ângelo&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&height=40&lines=Game+%2F+App+Developer;AI+Implementation+Engineer;Cybersecurity+Student;Linux+Enthusiast;Problem+Solver" alt="Typing SVG" />
+</p>
+
 ## whoami.sh
 
 ```bash
@@ -12,26 +16,9 @@ $ cat role.txt
 game/app dev · AI implementation · cybersecurity student · linux user
 ```
 
-
-<h3 align="center">// languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,powershell&perline=6&theme=dark" />
-</p>
-
-<h3 align="center">// tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,npm,electron,flask,sqlite,arduino&perline=9&theme=dark" />
-</p>
-
-<h3 align="center">// environment</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,kali,windows,vscode,vscodium,neovim,vim,discord&perline=9&theme=dark" />
-</p>
-
 ## $ ./boot.sh
 
-```
-
+```bash
 Loading Profile...
 Loading Cybersecurity Toolkit...
 Loading AI Integrations...
@@ -41,18 +28,13 @@ Loading Web & Electron...
 Loading Linux Environment...
 
 Status: READY [0 Errors, 0 Warnings]
-
 ```
-
-
 
 ## about.ts
 
 ```ts
 class Miguel {
-
     readonly name = "Miguel Ângelo";
-
     readonly role = "Developer & Linux Enthusiast";
 
     readonly interests = [
@@ -67,236 +49,66 @@ class Miguel {
         "Cybersecurity",
         "Japanese",
     ];
-
 }
 ```
-
-
 
 ## projects.ts
 
-```ts
-interface Project {
-    name: string;
-    stack: string;
-    status: string;
-}
-
-const projects: Project[] = [
-
-    {
-        name: "Heartcastle",
-        stack: "RPG Maker MZ",
-        status: "Complete"
-    },
-
-    {
-        name: "Farm Simulator",
-        stack: "Roblox Studio",
-        status: "In Development (just4fun)"
-    },
-
-    {
-        name: "SENTINEL",
-        stack: "Electron",
-        status: "Released"
-    },
-
-];
-```
-
-
-
-## stack.json
-
-```json
-{
-    "languages": [
-        "JavaScript",
-        "Python",
-        "Lua",
-        "HTML",
-        "CSS"
-    ],
-
-    "frameworks": [
-        "Node.js",
-        "Electron"
-    ],
-
-    "tools": [
-        "Git",
-        "GitHub",
-        "GitHub Actions",
-        "VS Code",
-        "Vim and Neovim <3"
-    ]
-}
-```
-
 <div align="center">
 
-### Languages
-
-<img src="https://skillicons.dev/icons?i=js,py,lua,html,css"/>
-
-### Frameworks
-
-<img src="https://skillicons.dev/icons?i=nodejs,electron"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,githubactions,vscode,vim,neovim"/>
+| Project | Stack | Status |
+|:--:|:--:|:--:|
+| **Heartcastle** | RPG Maker MZ | ![Complete](https://img.shields.io/badge/Complete-2EA043?style=flat-square) |
+| **Farm Simulator** | Roblox Studio | ![In Development](https://img.shields.io/badge/In_Development-D29922?style=flat-square) |
+| **SENTINEL** | Electron | ![Released](https://img.shields.io/badge/Released-2563EB?style=flat-square) |
 
 </div>
 
+## stack.json
 
+<div align="center">
+
+<h3>// languages</h3>
+<img src="https://skillicons.dev/icons?i=js,py,lua,html,css,bash,powershell&perline=7&theme=dark" />
+
+<h3>// frameworks & tools</h3>
+<img src="https://skillicons.dev/icons?i=nodejs,electron,flask,npm,sqlite,arduino,git,github,githubactions&perline=9&theme=dark" />
+
+<h3>// environment</h3>
+<img src="https://skillicons.dev/icons?i=arch,linux,kali,windows,vscode,vscodium,neovim,vim,discord&perline=9&theme=dark" />
+
+</div>
 
 ## linux.sh
 
 ```bash
 $ fastfetch
 
-OS Environment:
+OS Environment
+──────────────────────────────────────────────────
+✓ Arch Linux        ✓ NixOS             ✓ Artix Linux
+✓ CachyOS           ✓ Omarchy           ✓ Linux Mint
+✓ Fedora            ✓ Zorin OS          ✓ Void Linux
+✓ Garuda Linux      ✓ Kali Linux        ✓ Ubuntu
+✓ Debian            ✓ Pop!_OS           ✓ Manjaro
+(and more)
 
-✓ Arch Linux
-✓ NixOS
-✓ Artix Linux
-✓ CachyOS
-✓ Omarchy
-✓ Linux Mint
-✓ Fedora
-✓ Zorin OS
-✓ Void Linux
-✓ Garuda Linux
-✓ Kali Linux
-✓ Ubuntu
-✓ Debian
-✓ Pop!_OS
-✓ Manjaro
-(And More)
-
-System:
-
-Kernel: Linux
-
-Shell: bash
-
-Status: READY
+System
+──────────────────────────────────────────────────
+Kernel : Linux
+Shell  : bash
+Status : READY
 ```
-<div align="center">
-
-### Linux Distros
-
-<table>
-<tr>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/archlinux" width="45"/><br>
-Arch
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/nixos" width="45"/><br>
-NixOS
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/artixlinux" width="45"/><br>
-Artix
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/cachyos" width="45"/><br>
-CachyOS
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/omarchy" width="45"/><br>
-Omarchy
-</td>
-
-</tr>
-
-<tr>
-  
-<td align="center">
-<img src="https://cdn.simpleicons.org/linuxmint" width="45"/><br>
-Mint
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/fedora" width="45"/><br>
-Fedora
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/zorin" width="45"/><br>
-Zorin
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/voidlinux" width="45"/><br>
-Void
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/garudalinux" width="45"/><br>
-Garuda
-</td>
-
-</tr>
-
-<tr>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/kalilinux" width="45"/><br>
-Kali
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/ubuntu" width="45"/><br>
-Ubuntu
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/debian" width="45"/><br>
-Debian
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/popos" width="45"/><br>
-Pop!_OS
-</td>
-
-<td align="center">
-<img src="https://cdn.simpleicons.org/manjaro" width="45"/><br>
-Manjaro
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
-
 
 ## focus.py
 
 ```python
 current_focus = [
-
     "Cybersecurity",
-
     "Development",
-
     "New Projects",
-
 ]
 ```
-
-
 
 ## achievements.sql
 
@@ -311,8 +123,6 @@ HEARTCASTLE
 SENTINEL
 ```
 
-
-
 ## stats.yml
 
 ```yaml
@@ -323,8 +133,6 @@ github:
   motivation: "Build Something Better"
 ```
 
-
-
 ## github.tsx
 
 <div align="center">
@@ -333,14 +141,13 @@ github:
 
 </div>
 
+## FIND_ME.sh
 
-<h2>FIND_ME.sh</h2>
-
-<pre>
-<b>$</b> ./find_me.sh --all
-<span style="color:#7d8590">[sh]</span> resolving contacts...
-<span style="color:#7d8590">[ok]</span> 5 channels found
-</pre>
+```bash
+$ ./find_me.sh --all
+[sh] resolving contacts...
+[ok] 5 channels found
+```
 
 <div align="center">
 
@@ -351,8 +158,6 @@ github:
 <a href="mailto:miguel.angelo07e@gmail.com"><img src="https://img.shields.io/badge/Email-161B22?style=for-the-badge&logo=gmail&logoColor=EA4335"/></a>
 
 </div>
-
-
 
 ## quote.txt
 
@@ -368,10 +173,14 @@ while(alive) {
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=oclunny&style=for-the-badge&color=6C63FF)
+![Profile views](https://komarev.com/ghpvc/?username=oclunny&style=for-the-badge&color=6C63FF)
 
 ```
 Created with ❤️ by clunny
 ```
 
 </div>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000000&height=100&section=footer" />
+</p>
