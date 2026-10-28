@@ -96,8 +96,7 @@ OS Environment
 System
 ──────────────────────────────────────────────────
 Kernel : Linux
-Shell  : bash
-Status : READY
+Shell  : bash sometimes fish
 ```
 
 ## focus.py
@@ -106,6 +105,7 @@ Status : READY
 current_focus = [
     "Cybersecurity",
     "Development",
+    "Linux",
     "New Projects",
 ]
 ```
@@ -129,7 +129,6 @@ SENTINEL
 github:
   commits: "∞"
   bugs: "Expected"
-  music: "Always Playing 🎧"
   motivation: "Build Something Better"
 ```
 
