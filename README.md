@@ -12,20 +12,6 @@ $ cat role.txt
 game/app dev · AI implementation · cybersecurity student · linux user
 ```
 
-<h3 align="center">// languages</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,py,bash,powershell&perline=6&theme=dark" />
-</p>
-
-<h3 align="center">// tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,githubactions,nodejs,npm,electron,flask,sqlite,arduino&perline=9&theme=dark" />
-</p>
-
-<h3 align="center">// environment</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=arch,linux,kali,windows,vscode,vscodium,neovim,vim,discord&perline=9&theme=dark" />
-</p>
 
 <h3 align="center">// languages</h3>
 <p align="center">
