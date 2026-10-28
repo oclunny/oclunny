@@ -333,8 +333,8 @@ github:
 
 <div align="center">
 
-<a href="https://www.reddit.com/user/oclunny/">
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/oclunny)
+<a href="https://www.reddit.com/user/oclunny">
+<img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white"/>
 </a>
 
 <a href="https://oclunny.github.io">
