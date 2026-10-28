@@ -129,7 +129,7 @@ SENTINEL
 github:
   commits: "∞"
   bugs: "Expected"
-  motivation: "Build Something Better"
+  motivation: "Build Something Better and Make some Money"
 ```
 
 ## github.tsx
